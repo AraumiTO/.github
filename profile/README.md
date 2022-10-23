@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![logo](https://media.discordapp.net/attachments/1020927057791827988/1025066841690865664/logo.png)
-ARAUMI TO
+# ARAUMI TO
 <!--
 
 **Here are some ideas to get you started:**
