@@ -66,7 +66,7 @@ You can see the game features and their status in the following tables.
 | Paints             | ✅     |                                        |
 | Supplies           | ❌     |                                        |
 | Kits               | ❌     |                                        |
-| Containeres        | 🚧     | Dummy rewards                          |
+| Containers         | 🚧     | Dummy rewards                          |
 | Resistance modules | ❌     |                                        |
 | Subscriptions      | ❌     | Premium account, PRO-battle, etc.      |
 | Presents           | ❌     |                                        |
