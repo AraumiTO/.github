@@ -63,7 +63,7 @@ You can see the game features and their status in the following tables.
 | Micro-upgradess    | ❌     |                                        |
 | Hulls              | ✅     |                                        |
 | Weapons            | ✅     |                                        |
-| Paints             | 🚧     | Preview on the tank is not implemented |
+| Paints             | ✅     |                                        |
 | Supplies           | ❌     |                                        |
 | Kits               | ❌     |                                        |
 | Containeres        | 🚧     | Dummy rewards                          |
@@ -111,21 +111,21 @@ You can see the game features and their status in the following tables.
 
 | Name         | Status | Notes                               |
 |--------------|--------|-------------------------------------|
-| Smoky        | ❌     |                                     |
-| Flamethrower | ⚒️     | Dummy damage values                 |
-| Twins        | ❌     |                                     |
-| Railgun      | ❌     |                                     |
-| Isida        | ❌     |                                     |
-| Thunder      | ❌     |                                     |
-| Freeze       | ❌     |                                     |
-| Ricochet     | ⚒️     | Dummy damage values                 |
-| Shaft        | ⚒️     | Dummy damage values                 |
-| Hammer       | ❌     |                                     |
-| Vulcan       | 🚧     | Dummy SFX data, dummy damage values |
-| Striker      | ❌     |                                     |
-| Magnum       | ❌     |                                     |
-| Gauss        | ⚒️     | Dummy damage values                 |
-| Terminator   | ❌     |                                     |
+| Smoky        | ⚒️     |                                     |
+| Flamethrower | ⚒️     |                                     |
+| Twins        | ⚒️     |                                     |
+| Railgun      | ⚒️     |                                     |
+| Isida        | ⚒️     |                                     |
+| Thunder      | ⚒️     |                                     |
+| Freeze       | ⚒️     |                                     |
+| Ricochet     | ⚒️     |                                     |
+| Shaft        | ⚒️     |                                     |
+| Hammer       | ⚒️     |                                     |
+| Vulcan       | ⚒️     |                                     |
+| Striker      | ⚒️     |                                     |
+| Magnum       | ⚒️     |                                     |
+| Gauss        | ⚒️     |                                     |
+| Terminator   | ⚒️     |                                     |
 | Snowman      | ❌     |                                     |
 | Tomato Gun   | ❌     |                                     |
 | Tesla        | 🛑     | Not implemented in the Flash client |
@@ -136,16 +136,16 @@ You can see the game features and their status in the following tables.
 
 | Name       | Status | Notes                               |
 |------------|--------|-------------------------------------|
-| Wasp       | 🚧     | Dummy physics values                |
-| Hunter     | 🚧     | Dummy physics values                |
-| Titan      | 🚧     | Dummy physics values                |
-| Dictator   | 🚧     | Dummy physics values                |
-| Hornet     | 🚧     | Dummy physics values                |
-| Viking     | 🚧     | Dummy physics values                |
-| Mammonth   | 🚧     | Dummy physics values                |
-| Juggernaut | 🚧     | Dummy physics values                |
-| Ares       | ❌     |                                     |
-| Hopper     | ❌     |                                     |
+| Wasp       | ⚒️     | Dummy physics values                |
+| Hunter     | ⚒️     | Dummy physics values                |
+| Titan      | ⚒️     | Dummy physics values                |
+| Dictator   | ⚒️     | Dummy physics values                |
+| Hornet     | ⚒️     | Dummy physics values                |
+| Viking     | ⚒️     | Dummy physics values                |
+| Mammonth   | ⚒️     | Dummy physics values                |
+| Juggernaut | ⚒️     | Dummy physics values                |
+| Ares       | 🛑     |                                     |
+| Hopper     | 🛑     |                                     |
 | Crusader   | 🛑     | Not implemented in the Flash client |
 | Paladin    | 🛑     | Not implemented in the Flash client |
 
