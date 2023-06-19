@@ -49,7 +49,7 @@ You can see the game features and their status in the following tables.
 |---------------|--------|-------------------------------|
 | Battle list   | ✅     |                               |
 | Battle create | ⚒️     | Battle settings are ignored   |
-| Battle info   | ⚒️     | Player list is empty          |
+| Battle info   | ✅     |                               |
 | Matchmaking   | 🚧     | Matchmaker is not implemented |
 | Global chat   | ⚒️     |                               |
 
@@ -99,7 +99,7 @@ You can see the game features and their status in the following tables.
 |------------------------|--------|---------------------------------------|
 | Deathmatch (DM)        | 🚧     | Score system is required              |
 | Team Deathmatch (TDM)  | 🚧     | Score system is required              |
-| Capture the Flag (CTF) | 🚧     | Cannot take flag after first delivery |
+| Capture the Flag (CTF) | 🚧     | Score system is required              |
 | Control Points (CP)    | ❌     |                                       |
 | Assault (ASL)          | ❌     |                                       |
 | Rubgy (RGB)            | ❌     |                                       |
