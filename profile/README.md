@@ -2,9 +2,7 @@
 
 <div align="center">
 
-![](https://cdn.discordapp.com/attachments/1020927057791827988/1064190562997129216/logo-crop256.png)
-
-[![Derivative of the SCP Foundation](https://img.shields.io/static/v1?label=Derivative+of+the&message=SCP+Foundation&color=000000&logo=scp-foundation&style=for-the-badge)](https://discord.gg/MHFJGjqEYS "This project is a derivative of the SCP Foundation")
+![](https://araumi.org/assets/logo.png)
 
 </div>
 
@@ -19,7 +17,7 @@ However, with the obsolescence of Flash technology, game developers decided to m
 
 Araumi TO reimplements the server for the Tanki Online official client. The goal of this project is to support the Flash version of the game so players can enjoy the original Tanki Online gameplay expierence.
 
-This project is currently under development, and it has not yet been determined when it will be publicly available.
+This project is currently under development, and it has not yet been determined when it will be publicly available — you can follow the development status on [our website](https://araumi.org/).
 
 Please note that HTML5 and mobile version support of the game is not a primary goal of the Araumi TO, and they **may or may not** be supported in the future.
 
@@ -66,7 +64,7 @@ You can see the game features and their status in the following tables.
 | Paints             | ✅     |                                        |
 | Supplies           | ❌     |                                        |
 | Kits               | ❌     |                                        |
-| Containers         | 🚧     | Dummy rewards                          |
+| Containers         | 🚧     |                                        |
 | Resistance modules | ❌     |                                        |
 | Subscriptions      | ❌     | Premium account, PRO-battle, etc.      |
 | Presents           | ❌     |                                        |
@@ -80,10 +78,10 @@ You can see the game features and their status in the following tables.
 | Self-destruction    | ✅     |                               |
 | Bonuses             | 🚧     | Taking is not implemented     |
 | Supplies            | 🚧     | Activation is not implemented |
-| Damage system       | ❌     |                               |
+| Damage system       | 🚧     |                               |
 | Fund                | ❌     |                               |
 | Score system        | ❌     |                               |
-| Battle finish       | ❌     |                               |
+| Battle finish       | 🚧     |                               |
 
 #### Quests
 
@@ -105,7 +103,7 @@ You can see the game features and their status in the following tables.
 | Rubgy (RGB)            | ❌     |                                       |
 | Juggernaut (JGR)       | ❌     |                                       |
 | Team Juggernaut (TJR)  | ❌     |                                       |
-| Siege (SGE)            | ❌     |                                       |
+| Siege (SGE)            | 🛑     |                                       |
 
 #### Weapons
 
@@ -136,14 +134,14 @@ You can see the game features and their status in the following tables.
 
 | Name       | Status | Notes                               |
 |------------|--------|-------------------------------------|
-| Wasp       | ⚒️     | Dummy physics values                |
-| Hunter     | ⚒️     | Dummy physics values                |
-| Titan      | ⚒️     | Dummy physics values                |
-| Dictator   | ⚒️     | Dummy physics values                |
-| Hornet     | ⚒️     | Dummy physics values                |
-| Viking     | ⚒️     | Dummy physics values                |
-| Mammonth   | ⚒️     | Dummy physics values                |
-| Juggernaut | ⚒️     | Dummy physics values                |
+| Wasp       | ✅     |                                     |
+| Hunter     | ✅     |                                     |
+| Titan      | ✅     |                                     |
+| Dictator   | ✅     |                                     |
+| Hornet     | ✅     |                                     |
+| Viking     | ✅     |                                     |
+| Mammonth   | ✅     |                                     |
+| Juggernaut | ✅     |                                     |
 | Ares       | 🛑     |                                     |
 | Hopper     | 🛑     |                                     |
 | Crusader   | 🛑     | Not implemented in the Flash client |
