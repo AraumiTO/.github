@@ -17,7 +17,7 @@ However, with the obsolescence of Flash technology, game developers decided to m
 
 Araumi TO reimplements the server for the Tanki Online official client. The goal of this project is to support the Flash version of the game so players can enjoy the original Tanki Online gameplay expierence.
 
-This project is currently under development, and it has not yet been determined when it will be publicly available — you can follow the development status on [our website](https://araumi.org/).
+This project is currently under development, and it has not yet been determined when it will be publicly available — you can follow the development status on [our website](https://araumi.org/) or [discord server](https://discord.gg/euug57b7NQ).
 
 Please note that HTML5 and mobile version support of the game is not a primary goal of the Araumi TO, and they **may or may not** be supported in the future.
 
