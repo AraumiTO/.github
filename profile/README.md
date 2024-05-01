@@ -1,5 +1,5 @@
 # Araumi TO 
-![Discord](https://img.shields.io/discord/1233336064052301835?style=for-the-badge&logo=discord&logoColor=ffffff&label=discord&link=https%3A%2F%2Fdiscord.gg%2Feuug57b7NQ)
+[![Discord](https://img.shields.io/discord/1233336064052301835?style=for-the-badge&logo=discord&logoColor=ffffff&label=discord&link=https%3A%2F%2Fdiscord.gg%2Feuug57b7NQ)](https://discord.gg/euug57b7NQ)
 <div align="center">
 
 ![](https://araumi.org/assets/logo.png)
