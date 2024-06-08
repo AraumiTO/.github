@@ -2,7 +2,7 @@
 [![Discord](https://img.shields.io/discord/1233336064052301835?style=for-the-badge&logo=discord&logoColor=ffffff&label=discord&link=https%3A%2F%2Fdiscord.gg%2Feuug57b7NQ)](https://discord.gg/euug57b7NQ)
 <div align="center">
 
-![](https://araumi.org/assets/logo.png)
+![](https://araumi.org/assets/logo.webp)
 
 </div>
 
@@ -62,7 +62,7 @@ You can see the game features and their status in the following tables.
 | Hulls              | ✅     |                                        |
 | Weapons            | ✅     |                                        |
 | Paints             | ✅     |                                        |
-| Supplies           | ❌     |                                        |
+| Supplies           | 🚧     |                                        |
 | Kits               | ❌     |                                        |
 | Containers         | 🚧     |                                        |
 | Resistance modules | ❌     |                                        |
@@ -98,7 +98,7 @@ You can see the game features and their status in the following tables.
 | Deathmatch (DM)        | 🚧     | Score system is required              |
 | Team Deathmatch (TDM)  | 🚧     | Score system is required              |
 | Capture the Flag (CTF) | 🚧     | Score system is required              |
-| Control Points (CP)    | ❌     |                                       |
+| Control Points (CP)    | 🚧     |                                       |
 | Assault (ASL)          | ❌     |                                       |
 | Rubgy (RGB)            | ❌     |                                       |
 | Juggernaut (JGR)       | ❌     |                                       |
